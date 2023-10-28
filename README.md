@@ -1,1 +1,1 @@
-# TripPlanner_Java
+# Trip Planner java application
